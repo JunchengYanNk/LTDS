@@ -7,4 +7,4 @@ This repository provides data, codes, pretrained model, additional qualitative e
 
 "Clinical Low-Dose CT Image Denoising by Learnable Training Data Selection"
 
-The materials here are provided for completeness and reference only.
+
